@@ -56,7 +56,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/51/2/shadcn-ui-logo-png_seeklogo-519786.png" alt="shadcn" width="40" height="40"/> </a>
   <a href="https://lucide.dev/guide/packages/lucide-react" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="lucide" width="40" height="40"/> </a>
-  <a href="https://motion.dev/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/vector-icons/brand-framer-motion-pk1mas1m7u9hi06fqzq77f.png/brand-framer-motion-nuunolaqtcs7zlblwkjs.png?_a=DATAg1AAZAA0" alt="framer-motion" width="40" height="40"/> </a>
+  <a href="https://motion.dev/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/vector-icons/brand-framer-motion-pk1mas1m7u9hi06fqzq77f.png/brand-framer-motion-nuunolaqtcs7zlblwkjs.png?_a=DATAiZAAZAA0" alt="framer-motion" width="40" height="40"/> </a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
   <a href="https.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
@@ -144,8 +144,11 @@
 ---
 
 ## 📊 My GitHub Stats
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syAnasali&show_icons=true&locale=en&theme=tokyonight&icon_color=79ff97&include_all_commits=true&count_private=true" alt="syAnasali's github stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syAnasali&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="syAnasali's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syAnasali&show_icons=true&locale=en&theme=tokyonight&icon_color=79ff97&include_all_commits=true&count_private=true&hide_border=true" alt="syAnasali's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syAnasali&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="syAnasali's Top Languages" />
 </p>
