@@ -36,12 +36,14 @@
 <p>Here's a collection of the tools and technologies I work with. My full-stack expertise is constantly growing!</p>
 
 ### Languages
-<p>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
+    <td><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
+    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+    <td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+  </tr>
+</table>
 
 ### Front-End Development
 <p align="left">
@@ -135,8 +137,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1HctiRAMzzzwozHLo0YxPfZF1vQrjvcWeg&s" alt="github" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a0d0ba8fa841330130c8662f2aa0ceda2d1d69e492a0c94e4c8a1f40d4658f81/68747470733a2f2f636f64652e76697375616c73747564696f2e636f6d2f6173736574732f757064617465732f315f33352f6c6f676f2d737461626c652e706e67" alt="vs-code" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1035px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*1PhjsPrD69GadqQx067IBg.jpeg" alt="vs-code" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/blog/wp-content/uploads/2023/08/image-524.png" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGF6WmQC01Yfk2Q7JwYf3FLzBfjzUs-Xr7SA&s" alt="colab" width="40" height="40"/> </a>
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png" alt="vmware" width="40" height="40"/> </a>
   <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/video-games/obs-studio-uf988qj3h6s4pogd796j8.png/obs-studio-v04pu8ksuqcecv9lzkz7rb.png?_a=DATAg1AAZAA0" alt="obs" width="40" height="40"/> </a>
