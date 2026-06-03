@@ -171,12 +171,12 @@
     <td><a href="https://obsproject.com/"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/video-games/obs-studio-uf988qj3h6s4pogd796j8.png/obs-studio-v04pu8ksuqcecv9lzkz7rb.png?_a=DATAg1AAZAA0" width="40" height="40"/></a></td>
   </tr>
 </table>
----
+
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syAnasali&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syAnasali&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syAnasali&layout=compact&theme=tokyonight&hide_progress=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syAnasali&layout=compact&theme=tokyonight" />
 </p>
