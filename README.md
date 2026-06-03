@@ -174,11 +174,9 @@
 ---
 
 ## 📊 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syAnasali&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syAnasali&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syAnasali&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syAnasali&layout=compact&theme=tokyonight&hide_progress=false" />
 </p>
